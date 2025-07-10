@@ -7,7 +7,7 @@ In my mind this is a semi-private page, but in case you've found your way in fro
 Quite a lot of my scripts write to files, and it's on you to make sure you don't accidentally overwrite any of your data!
 
 ## About Me:
-I am an Earth Science graduate with interests in hard rock geology, petrology, metamorphism, and magmatic systems. I've also got an A-level in Comp Sci and I like to write little programs when I can to keep myself up to date. When I can combine the two, they'll end up here.
+I am an Earth Science Masters graduate with interests in hard rock geology, petrology, metamorphism, and magmatic systems. I've also got a background in Comp Sci and I like to write little programs to keep myself coding. When I can combine the two fields, they'll end up here.
 
 
 <!--
