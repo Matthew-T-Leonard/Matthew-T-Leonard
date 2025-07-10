@@ -1,12 +1,12 @@
 ## Hello!
-This is just a small github page on which I store/share anything I've made that others might find useful. Typically that's short scripts to automate otherwise tedious tasks.
+This is just a small github page to store anything I've made that others might find useful.
 They should be simple enough that you don't need support, but if you do then log it in issues! I'll also accept an email :)
 
 In my mind this is a semi-private page, but in case you've found your way in from the internet please remember:
 
 **Do not run programs from sources you don't know or trust!**
 
-Quite a lot of my scripts write to files, and it's on you to make sure you don't accidentally overwrite any of your data!
+So far, everything here writes to files, and it's on you to make sure you don't accidentally overwrite any of your data!
 
 ## About Me:
 I am an Earth Science Masters graduate with interests in hard rock geology, petrology, metamorphism, and magmatic systems. I've also got a background in Comp Sci and I like to write little programs to keep myself coding. When I can combine the two fields, they'll end up here.
